@@ -12,14 +12,6 @@ This tool takes SVG icon files and generates 440×250px PNG images with:
 
 The default dimensions (440×250px) are specifically chosen for **BookStack book thumbnails**, which is what this tool was originally created for. BookStack is a simple, self-hosted wiki platform, and these dimensions provide optimal display quality for book cover images.
 
-## Features
-
-- **Batch processing**: Generate multiple icon cards from a single command
-- **Flexible configuration**: JSON-based icon specifications
-- **Customizable output**: Adjust dimensions, scale, and directories via CLI
-- **Color control**: Set both icon and background colors per image
-- **Simple workflow**: Just add SVG files and update the JSON config
-
 ## Requirements
 
 - Python 3.7+
@@ -144,20 +136,6 @@ For best results:
 
 Generated PNG files are saved to `generated-images/` (configurable with `-o`), with the same base name as the input SVG file.
 
-## Use Case: BookStack Integration
-
-This tool was designed for BookStack, a documentation/wiki platform. To use the generated images as book thumbnails in BookStack:
-
-1. Generate your icon cards with default settings (440×250px)
-2. Upload the PNG files through BookStack's book settings
-3. The images will display perfectly as book cover thumbnails
-
-The 440×250 aspect ratio provides optimal display in BookStack's book listing views while maintaining crisp quality.
-
 ## License
 
 MIT License - Feel free to use and modify as needed.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests.
