@@ -1,0 +1,47 @@
+[
+	{
+		"file": "lock-solid-full.svg",
+		"icon_color": "#ffffff",
+		"background_color": "#1f2937"
+	},
+	{
+		"file": "cloud-solid-full.svg",
+		"icon_color": "#ffffff",
+		"background_color": "#0ea5e9"
+	},
+	{
+		"file": "user-solid-full.svg",
+		"icon_color": "#ffffff",
+		"background_color": "#10b981"
+	},
+	{
+		"file": "server-solid-full.svg",
+		"icon_color": "#ffffff",
+		"background_color": "#f59e0b"
+	},
+	{
+		"file": "window-maximize-solid-full.svg",
+		"icon_color": "#ffffff",
+		"background_color": "#8b5cf6"
+	},
+	{
+		"file": "envelope-solid-full.svg",
+		"icon_color": "#ffffff",
+		"background_color": "#ef4444"
+	},
+	{
+		"file": "wikipedia-w-brands-solid-full.svg",
+		"icon_color": "#ffffff",
+		"background_color": "#2563eb"
+	},
+	{
+		"file": "display-solid-full.svg",
+		"icon_color": "#ffffff",
+		"background_color": "#c026d3"
+	},
+	{
+		"file": "github-brands-solid-full.svg",
+		"icon_color": "#ffffff",
+		"background_color": "#14b8a6"
+	}
+]
